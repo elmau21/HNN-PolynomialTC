@@ -33,7 +33,7 @@ dp/dt = -∂H/∂q
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/hamiltonian-nn.git
+git clone https://github.com/elmau21/HNN-PolynomialTC.git
 cd hamiltonian-nn
 ```
 
